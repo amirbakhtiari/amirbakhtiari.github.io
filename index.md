@@ -1,6 +1,6 @@
 ## به صفحه شخصی من خوش آمدید
 
-You can use the [editor on GitHub](https://github.com/amirbakhtiari/amirbakhtiari.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+در این صفحه قرار از تجربیاتم از ##برنامه نویسی اندروید و جاوا قرار بدم
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
