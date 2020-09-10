@@ -1,5 +1,4 @@
-##تجربیات شخصی من از برنامه نویس اندروید و کاتلین 
-
+##تجربیات شخصی من از اندروید و کاتلین
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
