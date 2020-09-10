@@ -1,7 +1,25 @@
-##تجربیات شخصی من از اندروید و کاتلین
+# تجربیات شخصی من از اندروید و کاتلین
+# اگر بتونم و وقت بزارم به صورت زیر جلو میریم
+## آموزش کاتلین شامل
+1. Your First Kotlin Application
+2. Variables, Constants, and Type
+3. Conditional
+4. Function
+5. Anonymous Funtion and the Function Type
+6. Null Safety And Exception
+7. String
+8. Numbers
+9. Standard Funtion
+10. Lists And Sets
+11. Maps
+12. Defining Class
 
+`سعی میکنم این مباحثو کامل توضیح بدم تا بعد ببینم چی میشه!`
+### البته کسایی که قبلا جاوا کار کردن مطمئنن براشون این مباحث ساده تر خواهد بود
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**منبع**
+**Kotlin Programming: The Big Nerd Ranch Guide**
+
 
 ### Markdown
 
