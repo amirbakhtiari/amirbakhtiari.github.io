@@ -1,6 +1,6 @@
-## به صفحه شخصی من خوش آمدید
+##تجربیات شخصی من از برنامه نویس اندروید و کاتلین 
 
-در این صفحه قرار از تجربیاتم از ##برنامه نویسی اندروید و جاوا قرار بدم
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
