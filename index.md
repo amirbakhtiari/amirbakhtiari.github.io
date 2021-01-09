@@ -1,7 +1,7 @@
 # تجربیات شخصی من از اندروید و کاتلین
 # اگر بتونم و وقت بزارم به صورت زیر جلو میریم
 ## آموزش کاتلین شامل
-1. [Your First Kotlin Application](https://amirbakhtiari.github.io/)
+1. [Your First Kotlin Application](https://amirbakhtiari.github.io/get-started)
 2. Variables, Constants, and Type
 3. Conditional
 4. Function
